@@ -1,0 +1,2869 @@
+[
+    {
+        "features": [
+            "Radiologia",
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "type": "laboratory",
+        "name": "A+ Morumbi",
+        "specialties": [
+            "Radiologia",
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "sub_specialties": [],
+        "addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Dr. Guilherme Dumont Vilares, 1143, Morumbi, São Paulo - 05640-001"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Dr. Guilherme Dumont Vilares, 1143, Morumbi, São Paulo - 05640-001"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "phones": [],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 18:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "https://alice-member-app-assets.s3.amazonaws.com/placeholder/providers/placeholder_lab.png",
+        "education": []
+    },
+    {
+        "features": [
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "type": "laboratory",
+        "name": "Fleury - Avenida Brasil",
+        "specialties": [
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "sub_specialties": [],
+        "addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Brasil, 1891, Jardim Paulista, São Paulo - 01431-001"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Brasil, 1891, Jardim Paulista, São Paulo - 01431-001"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "phones": [],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:00 - 18:30",
+                "Terça-feira: 06:00 - 18:30",
+                "Quarta-feira: 06:00 - 18:30",
+                "Quinta-feira: 06:00 - 18:30",
+                "Sexta-feira: 06:00 - 18:30",
+                "Sábado: 06:00 - 12:30",
+                "Domingo: 06:30 - 12:30"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "https://alice-member-app-assets.s3.amazonaws.com/placeholder/providers/placeholder_lab.png",
+        "education": []
+    },
+    {
+        "features": [
+            "Radiologia",
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "type": "laboratory",
+        "name": "Fleury - Itaim Bibi",
+        "specialties": [
+            "Radiologia",
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "sub_specialties": [],
+        "addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Pres. Juscelino Kubitschek, 1117, Vila Nova Conceição, São Paulo - 04543-011"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Pres. Juscelino Kubitschek, 1117, Vila Nova Conceição, São Paulo - 04543-011"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "phones": [],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 18:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "https://alice-member-app-assets.s3.amazonaws.com/placeholder/providers/placeholder_lab.png",
+        "education": []
+    },
+    {
+        "features": [
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "type": "laboratory",
+        "name": "Fleury - Jardim Europa",
+        "specialties": [
+            "Laboratorial",
+            "Tomografia"
+        ],
+        "sub_specialties": [],
+        "addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Brasil, 216, Jardim Paulista, São Paulo - 01431-001"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "title": "Principal",
+                "address": "Av. Brasil, 216, Jardim Paulista, São Paulo - 01431-001"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "phones": [],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 19:00",
+                "Terça-feira: 06:30 - 19:00",
+                "Quarta-feira: 06:30 - 19:00",
+                "Quinta-feira: 06:30 - 19:00",
+                "Sexta-feira: 06:30 - 19:00",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "https://alice-member-app-assets.s3.amazonaws.com/placeholder/providers/placeholder_lab.png",
+        "education": []
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Alameda Jaú",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Alameda Jaú, 1725"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Alameda Jaú, 1725"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Anália Franco II",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Antonio de Barros, 2203"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Antonio de Barros, 2203"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:30",
+                "Terça-feira: 06:30 - 18:30",
+                "Quarta-feira: 06:30 - 18:30",
+                "Quinta-feira: 06:30 - 18:30",
+                "Sexta-feira: 06:30 - 18:30",
+                "Sábado: 06:30 - 18:30",
+                "Domingo: 06:30 - 12:30"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Brasil I",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Brasil, 216"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Brasil, 216"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Brasil II",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Brasil, 1891"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Brasil, 1891"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Braz Leme",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Braz Leme, 2011"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Braz Leme, 2011"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Campo Belo",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Vereador José Diniz, 3457"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Vereador José Diniz, 3457"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Cerro Corá",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Cerro Corá, 1865"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Cerro Corá, 1865"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Chácara Klabin",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Prefeito Fábio Prado, 538"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Prefeito Fábio Prado, 538"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Heitor Penteado",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Heitor Penteado, 833"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Heitor Penteado, 833"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Higienópolis",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Mato Grosso, 306"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Mato Grosso, 306"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Ipiranga",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Nazaré, 1266"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Nazaré, 1266"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Itaim",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Presidente Juscelino Kubitschek, 1117"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Presidente Juscelino Kubitschek, 1117"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 18:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Moema",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Alameda dos Nhambiquaras, 353"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Alameda dos Nhambiquaras, 353"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Morumbi",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Giovanni Gronchi, 3108"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Giovanni Gronchi, 3108"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Oscar Americano",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Engenheiro Oscar Americano, 163"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Engenheiro Oscar Americano, 163"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Paraíso",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Cincinato Braga, 282"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Cincinato Braga, 282"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 21:00",
+                "Terça-feira: 06:30 - 21:00",
+                "Quarta-feira: 06:30 - 21:00",
+                "Quinta-feira: 06:30 - 21:00",
+                "Sexta-feira: 06:30 - 21:00",
+                "Sábado: 06:30 - 18:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Ponte Estaiada",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Jornalista Roberto Marinho, 85"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Jornalista Roberto Marinho, 85"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury República do Líbano I",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida República do Líbano, 635"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida República do Líbano, 635"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 13:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury República do Líbano II",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida República do Líbano, 561"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida República do Líbano, 561"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:30",
+                "Terça-feira: 06:30 - 18:30",
+                "Quarta-feira: 06:30 - 18:30",
+                "Quinta-feira: 06:30 - 18:30",
+                "Sexta-feira: 06:30 - 18:30",
+                "Sábado: 06:30 - 13:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury República do Líbano III",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida República do Líbano, 990"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida República do Líbano, 990"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:30",
+                "Terça-feira: 06:30 - 18:30",
+                "Quarta-feira: 06:30 - 18:30",
+                "Quinta-feira: 06:30 - 18:30",
+                "Sexta-feira: 06:30 - 18:30",
+                "Sábado: 06:30 - 12:20",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Rochaverá",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Doutor Chucri Zaidan, 1170"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Doutor Chucri Zaidan, 1170"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:30",
+                "Terça-feira: 06:30 - 18:30",
+                "Quarta-feira: 06:30 - 18:30",
+                "Quinta-feira: 06:30 - 18:30",
+                "Sexta-feira: 06:30 - 18:30",
+                "Sábado: 06:30 - 12:20",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Shopping Anália Franco",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Regente Feijó, 1739"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Regente Feijó, 1739"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Shopping Jardim Sul",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Giovanni Gronchi, 5819"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Giovanni Gronchi, 5819"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:30",
+                "Terça-feira: 06:30 - 12:30",
+                "Quarta-feira: 06:30 - 12:30",
+                "Quinta-feira: 06:30 - 12:30",
+                "Sexta-feira: 06:30 - 12:30",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Sumaré",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Sumaré, 1270"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Sumaré, 1270"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 13:00",
+                "Terça-feira: 06:30 - 13:00",
+                "Quarta-feira: 06:30 - 13:00",
+                "Quinta-feira: 06:30 - 13:00",
+                "Sexta-feira: 06:30 - 13:00",
+                "Sábado: 06:30 - 12:30",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Vila Leopoldina",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Carlos Weber, 624"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Carlos Weber, 624"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:30",
+                "Terça-feira: 06:30 - 18:30",
+                "Quarta-feira: 06:30 - 18:30",
+                "Quinta-feira: 06:30 - 18:30",
+                "Sexta-feira: 06:30 - 18:30",
+                "Sábado: 06:30 - 12:20",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "Fleury Villa-Lobos",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Castro Delgado, 188"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Castro Delgado, 188"
+            }
+        ],
+        "site": "www.fleury.com.br",
+        "crm": "",
+        "cnpj": "60840055000131",
+        "phones": [
+            {
+                "phone": "(11) 3179 0822"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 13:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Angélica",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Angélica, 2086"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Angélica, 2086"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Augusto Tolle",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Augusto Tolle, 434"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Augusto Tolle, 434"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Berrini",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Praça Gen. Gentil Falcão, 60"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Praça Gen. Gentil Falcão, 60"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Brasil",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Brasil, 762"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Brasil, 762"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Braz Leme",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Braz Leme, 1802"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Braz Leme, 1802"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Brigadeiro",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Brigadeiro Luis Antônio, 2332"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Brigadeiro Luis Antônio, 2332"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Campo Belo",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Bernardino de Campos, 182"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Bernardino de Campos, 182"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Cantareira",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Nova Cantareira, 2525"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Nova Cantareira, 2525"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Canário",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Canário, 1240"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Canário, 1240"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 07:00 - 12:00",
+                "Terça-feira: 07:00 - 12:00",
+                "Quarta-feira: 07:00 - 12:00",
+                "Quinta-feira: 07:00 - 12:00",
+                "Sexta-feira: 07:00 - 12:00",
+                "Sábado: 07:00 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Chácara Flora",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Washington Luis, 2488"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Washington Luis, 2488"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Funchal",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Funchal, 335"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Funchal, 335"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ HAOC",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua João Julião, 331"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua João Julião, 331"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Heitor Penteado",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Heitor Penteado, 774"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Heitor Penteado, 774"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Ipiranga",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Cipriano Barata, 1534"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Cipriano Barata, 1534"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Itaim",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Joaquim Floriano, 400"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Joaquim Floriano, 400"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Lapa",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Barão de Jundiai, 284"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Barão de Jundiai, 284"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Leôncio Magalhães",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Leôncio Magalhães, 690"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Leôncio Magalhães, 690"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Moema",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Indianópolis, 922"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Indianópolis, 922"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Mooca",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Paes de Barros, 2273"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Paes de Barros, 2273"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Morumbi Dumont Villares",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Dr. Guilherme Dumont Villares, 1143"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Dr. Guilherme Dumont Villares, 1143"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 18:00",
+                "Terça-feira: 06:30 - 18:00",
+                "Quarta-feira: 06:30 - 18:00",
+                "Quinta-feira: 06:30 - 18:00",
+                "Sexta-feira: 06:30 - 18:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Paraíso",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua do Paraíso, 450"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua do Paraíso, 450"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 21:00",
+                "Terça-feira: 06:30 - 21:00",
+                "Quarta-feira: 06:30 - 21:00",
+                "Quinta-feira: 06:30 - 21:00",
+                "Sexta-feira: 06:30 - 21:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Pedroso de Morais",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Pedroso de Morais, 1241"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Pedroso de Morais, 1241"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Queiroz Filho",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Queiroz Filho, 498"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Queiroz Filho, 498"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Santo Amaro",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Avenida Guarapiranga, 32"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Avenida Guarapiranga, 32"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: 06:30 - 12:00"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Tatuapé Henrique Dumont",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Henrique Dumont, 55"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Henrique Dumont, 55"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Tatuapé Itapura",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Itapura, 428"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Itapura, 428"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Trianon Masp",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Itapeva, 518"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Itapeva, 518"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 15:00",
+                "Terça-feira: 06:30 - 15:00",
+                "Quarta-feira: 06:30 - 15:00",
+                "Quinta-feira: 06:30 - 15:00",
+                "Sexta-feira: 06:30 - 15:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Verbo Divino",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Verbo Divino, 986"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Verbo Divino, 986"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    },
+    {
+        "features": [
+            ""
+        ],
+        "type": "laboratory",
+        "name": "a+ Vila Andrade",
+        "specialties": [
+            ""
+        ],
+        "sub_specialties": [
+            ""
+        ],
+        "addresses": [
+            {
+                "address": "Rua Algamesi, 57"
+            }
+        ],
+        "simplified_addresses": [
+            {
+                "address": "Rua Algamesi, 57"
+            }
+        ],
+        "site": "www.amaissaude.com.br",
+        "crm": "",
+        "cnpj": "60840055010447",
+        "phones": [
+            {
+                "phone": "(11) 3139-8000"
+            }
+        ],
+        "working_hours": {
+            "always_open": false,
+            "weekday_text": [
+                "Segunda-feira: 06:30 - 12:00",
+                "Terça-feira: 06:30 - 12:00",
+                "Quarta-feira: 06:30 - 12:00",
+                "Quinta-feira: 06:30 - 12:00",
+                "Sexta-feira: 06:30 - 12:00",
+                "Sábado: 06:30 - 12:00",
+                "Domingo: Fechado"
+            ]
+        },
+        "qualifications": [],
+        "image_url": "",
+        "education": [
+            ""
+        ],
+        "curiosity": ""
+    }
+]

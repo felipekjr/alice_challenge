@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  core:
+    path: ../core
+  common_design_system:
+    path: ../common_design_system
 
 dev_dependencies:
   flutter_test:

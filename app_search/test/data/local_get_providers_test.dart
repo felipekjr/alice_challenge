@@ -2,6 +2,7 @@
 import 'dart:convert';
 
 import 'package:app_search/src/domain/entities/provider_entity.dart';
+import 'package:app_search/src/domain/helpers/domain_error.dart';
 import 'package:app_search/src/domain/usecases/get_providers.dart';
 import 'package:faker/faker.dart';
 import 'package:flutter/services.dart';
@@ -27,6 +28,7 @@ class LocalProviderModel {
 class PlatformAssetBundleSpy extends Mock implements PlatformAssetBundle {
   When mockCall() => when(() => loadString(any()));
   void mock(String response) => mockCall().thenAnswer((_) => Future.value(response));
+  void mockError() => mockCall().thenThrow(Exception());
 }
 
 class LocalGetProviders implements GetProviders {
@@ -38,10 +40,13 @@ class LocalGetProviders implements GetProviders {
 
   @override
   Future<List<ProviderEntity>> call() async {
-    final jsonString = await assetsDataSource.loadString('assets/providers.json');
-    final List data = await jsonDecode(jsonString);
-
-    return data.map((e) => LocalProviderModel.fromJson(e).toEntity()).toList();
+    try {
+      final jsonString = await assetsDataSource.loadString('assets/providers.json');
+      final List data = await jsonDecode(jsonString);
+      return data.map((e) => LocalProviderModel.fromJson(e).toEntity()).toList();
+    } catch (e) {
+      throw DomainError.unexpected;
+    }
   }
 }
 
@@ -55,7 +60,7 @@ void main() {
       assetsDataSource: platformAssetBundleSpy
     );
 
-    platformAssetBundleSpy.mock(faker.lorem.word());
+    platformAssetBundleSpy.mock(FakeProvider.makeFakeJsonString([]));
   });
 
   test('Should call datasource with correct values', () async {
@@ -72,6 +77,11 @@ void main() {
     final res = await sut.call();
 
     expect(res, fakeProviders);
+  });
+
+  test('Should emit unexpected if got some error', () async {
+    platformAssetBundleSpy.mockError();
+    expect(() => sut.call(), throwsA(DomainError.unexpected));
   });
 
 }

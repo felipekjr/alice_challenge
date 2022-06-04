@@ -3,6 +3,7 @@ import 'package:app_search/src/domain/usecases/get_providers.dart';
 import 'package:app_search/src/presentation/helpers/ui_state.dart';
 import 'package:app_search/src/presentation/value_notifier_home_presenter.dart';
 import 'package:faker/faker.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 
@@ -69,5 +70,12 @@ void main() {
       .toList();
 
     expect(sut.filteredProvidersNotifier.value, filteredList);
+  });
+
+  test('Should dispose notifiers on dispose method', () {
+    sut.dispose();
+
+    expect(() => sut.filteredProvidersNotifier.hasListeners, throwsA(isA<FlutterError>()));
+    expect(() => sut.stateNotifier.hasListeners, throwsA(isA<FlutterError>()));
   });
 }

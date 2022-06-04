@@ -47,4 +47,11 @@ void main() {
     expect(sut.providers, fakeProviders);
     expect(sut.filteredProvidersNotifier.value, fakeProviders);
   });
+
+  test('Should emit error state if method fails', () async {
+    await sut.getAll();
+
+    expect(states[0], const UILoadingState());
+    expect(states[1], const UIErrorState('Erro ao recuperar colaboradores'));
+  });
 }

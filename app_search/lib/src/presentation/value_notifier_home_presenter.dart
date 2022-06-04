@@ -34,7 +34,7 @@ class ValueNotifierHomePresenter implements HomePresenter {
       filteredProvidersNotifier.value = providers;
       stateNotifier.value = const UIInitialState();
     } catch (_) {
-      
+      stateNotifier.value = const UIErrorState('Erro ao recuperar colaboradores');
     }
   }
 

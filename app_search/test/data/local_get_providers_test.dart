@@ -1,9 +1,8 @@
 
 import 'dart:convert';
 
-import 'package:app_search/src/domain/entities/provider_entity.dart';
+import 'package:app_search/src/data/usecases/local_get_providers.dart';
 import 'package:app_search/src/domain/helpers/domain_error.dart';
-import 'package:app_search/src/domain/usecases/get_providers.dart';
 import 'package:faker/faker.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -11,43 +10,10 @@ import 'package:mocktail/mocktail.dart';
 
 import '../mocks/mocks.dart';
 
-class LocalProviderModel {
-  final String name;
-
-  LocalProviderModel({
-    required this.name
-  });
-
-  factory LocalProviderModel.fromJson(Map json) {
-    return LocalProviderModel(name: json['name']);
-  }
-
-  ProviderEntity toEntity() => ProviderEntity(name: name);
-}
-
 class PlatformAssetBundleSpy extends Mock implements PlatformAssetBundle {
   When mockCall() => when(() => loadString(any()));
   void mock(String response) => mockCall().thenAnswer((_) => Future.value(response));
   void mockError() => mockCall().thenThrow(Exception());
-}
-
-class LocalGetProviders implements GetProviders {
-  PlatformAssetBundle assetsDataSource;
-
-  LocalGetProviders({
-    required this.assetsDataSource
-  });
-
-  @override
-  Future<List<ProviderEntity>> call() async {
-    try {
-      final jsonString = await assetsDataSource.loadString('assets/providers.json');
-      final List data = await jsonDecode(jsonString);
-      return data.map((e) => LocalProviderModel.fromJson(e).toEntity()).toList();
-    } catch (e) {
-      throw DomainError.unexpected;
-    }
-  }
 }
 
 void main() {

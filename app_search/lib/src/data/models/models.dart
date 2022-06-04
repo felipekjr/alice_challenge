@@ -1,0 +1,1 @@
+export './local_provider_model.dart';

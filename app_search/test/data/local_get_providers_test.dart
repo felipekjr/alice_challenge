@@ -1,6 +1,4 @@
 
-import 'dart:convert';
-
 import 'package:app_search/src/data/usecases/local_get_providers.dart';
 import 'package:app_search/src/domain/helpers/domain_error.dart';
 import 'package:faker/faker.dart';

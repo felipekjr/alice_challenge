@@ -54,4 +54,19 @@ void main() {
     expect(states[0], const UILoadingState());
     expect(states[1], const UIErrorState('Erro ao recuperar colaboradores'));
   });
+
+  test('Should filter providers list correctly', () async {
+    final fakeProviders = random.amount((i) => FakeProvider.makeFakeProvider(), 5);
+    final text = faker.lorem.word();
+    sut.providers = fakeProviders;
+    sut.filteredProvidersNotifier.value = fakeProviders;
+
+    sut.filterProviders(text);
+
+    final filteredList = fakeProviders
+      .where((p) => p.name.startsWith(text))
+      .toList();
+
+    expect(sut.filteredProvidersNotifier.value, filteredList);
+  });
 }

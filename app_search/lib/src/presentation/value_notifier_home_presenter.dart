@@ -40,6 +40,8 @@ class ValueNotifierHomePresenter implements HomePresenter {
 
   @override
   void filterProviders(String text) {
-    // TODO: implement filterProviders
+    filteredProvidersNotifier.value = providers
+      .where((p) => p.name.startsWith(text))
+      .toList();
   }
 }

@@ -8,7 +8,7 @@ import '../../domain/usecases/usecases.dart';
 import '../models/models.dart';
 
 class LocalGetProviders implements GetProviders {
-  PlatformAssetBundle assetsDataSource;
+  AssetBundle assetsDataSource;
 
   LocalGetProviders({
     required this.assetsDataSource

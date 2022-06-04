@@ -1,7 +1,5 @@
 library common_design_system;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export './theme/theme.dart';
+export './widgets/widgets.dart';
+

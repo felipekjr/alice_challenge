@@ -1,4 +1,5 @@
 import 'package:app_search/app_search.dart';
+import 'package:common_design_system/common_design_system.dart';
 import 'package:core/base_app.dart';
 import 'package:core/micro_app.dart';
 import 'package:core/micro_core_utils.dart';
@@ -20,9 +21,10 @@ class AliceSearch extends StatelessWidget with BaseApp {
 
     return MaterialApp(
       title: 'Alice Search',
+      theme: appTheme(),
       navigatorKey: navigatorKey,
       onGenerateRoute: super.generateRoute,
-      initialRoute: '/search',
+      initialRoute: '/search/home',
     );
   }
 

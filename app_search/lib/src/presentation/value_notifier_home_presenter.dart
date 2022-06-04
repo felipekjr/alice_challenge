@@ -30,6 +30,7 @@ class ValueNotifierHomePresenter implements HomePresenter {
   Future<void>? getAll() async {
     try {
       stateNotifier.value = const UILoadingState();
+      await Future.delayed(const Duration(seconds: 2));
       providers = await getProviders();
       filteredProvidersNotifier.value = providers;
       stateNotifier.value = const UIInitialState();

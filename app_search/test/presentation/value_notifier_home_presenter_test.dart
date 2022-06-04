@@ -49,6 +49,7 @@ void main() {
   });
 
   test('Should emit error state if method fails', () async {
+    states.clear();
     await sut.getAll();
 
     expect(states[0], const UILoadingState());

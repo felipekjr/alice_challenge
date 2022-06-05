@@ -9,6 +9,7 @@ class ListItem extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 15),
       padding: const EdgeInsets.symmetric(vertical: 20),
+      width: MediaQuery.of(context).size.width,
       decoration: const BoxDecoration(
         border: Border(
           bottom: BorderSide(color: Colors.grey, width: .5)

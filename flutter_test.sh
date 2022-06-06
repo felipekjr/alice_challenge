@@ -22,21 +22,6 @@ runTests() {
     fi
 }
 
-testAllPackages() {
-    echo "Test in all packages"
-    for dir in ./*/
-    do
-        runTests $dir
-    done
-    echo "\nTested packages: $packages"
-}
-
-echo "Test all packages? [Y,n]"
+echo "Package name: "
 read -r input
-if [[ $input == "Y" || $input == "y" ]]; then
-    testAllPackages
-else 
-    echo "Package name: "
-    read -r input
-    runTests "$input"
-fi
+runTests "$input"

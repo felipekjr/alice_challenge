@@ -1,0 +1,1 @@
+export './provider_view_model.dart';

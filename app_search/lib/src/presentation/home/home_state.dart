@@ -1,9 +1,8 @@
-import 'package:app_search/src/ui/pages/home/home.dart';
-
-import 'ui_state.dart';
+import '../ui_state.dart';
+import '../../ui/pages/home/view_models/provider_view_model.dart';
 
 class ProvidersLoadedState extends UIState {
-  final List<VisibleProviderEntity> list;
+  final List<ProviderViewModel> list;
 
   const ProvidersLoadedState(this.list) : super();
 
@@ -12,7 +11,7 @@ class ProvidersLoadedState extends UIState {
 }
 
 class ProvidersFilteredState extends UIState {
-  final List<VisibleProviderEntity> list;
+  final List<ProviderViewModel> list;
 
   const ProvidersFilteredState(this.list) : super();
 

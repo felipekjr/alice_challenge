@@ -1,7 +1,9 @@
+import 'package:app_search/src/core/extensions/extensions.dart';
 import 'package:app_search/src/domain/entities/entities.dart';
 import 'package:app_search/src/domain/usecases/get_providers.dart';
-import 'package:app_search/src/presentation/helpers/ui_state.dart';
-import 'package:app_search/src/presentation/value_notifier_home_presenter.dart';
+import 'package:app_search/src/presentation/home/home.dart';
+import 'package:app_search/src/presentation/ui_state.dart';
+import 'package:app_search/src/ui/pages/home/home.dart';
 import 'package:faker/faker.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -39,14 +41,15 @@ void main() {
   test('Should set providers, filteredProviders and emit correct states on success', () async {
     states.clear();
     final fakeProviders = random.amount((i) => FakeProvider.makeFakeProvider(), 5);
+    final providersVM = makeVisibleProviders(fakeProviders);
     getProvidersSpy.mock(fakeProviders);
 
     await sut.getAll();
 
     expect(states[0], const UILoadingState());
-    expect(states[1], const UIInitialState());
+    expect(states[1], ProvidersLoadedState(providersVM));
     expect(sut.providers, fakeProviders);
-    expect(sut.filteredProvidersNotifier.value, fakeProviders);
+    expect(sut.filteredProvidersNotifier.value, providersVM);
   });
 
   test('Should emit error state if method fails', () async {
@@ -57,19 +60,21 @@ void main() {
     expect(states[1], const UIErrorState('Erro ao recuperar colaboradores'));
   });
 
-  test('Should filter providers list correctly', () async {
+  test('Should filter providers list correctly and emit state', () async {
     final fakeProviders = random.amount((i) => FakeProvider.makeFakeProvider(), 5);
     final text = faker.lorem.word();
     sut.providers = fakeProviders;
-    sut.filteredProvidersNotifier.value = fakeProviders;
+    sut.filteredProvidersNotifier.value = makeVisibleProviders(fakeProviders);
+    final filteredList = fakeProviders.where((p) => p.name.startsWith(text)).toList();
+    final providersWithVisibility = sut.filteredProviders.map((e) => e.copy(
+      isVisible: filteredList.any((f) => f.name == e.name)
+    )).toList();
 
+    states.clear();
     sut.filterProviders(text);
 
-    final filteredList = fakeProviders
-      .where((p) => p.name.startsWith(text))
-      .toList();
-
-    expect(sut.filteredProvidersNotifier.value, filteredList);
+    expect(sut.filteredProviders, providersWithVisibility);
+    expect(states[0], ProvidersFilteredState(providersWithVisibility));
   });
 
   test('Should dispose notifiers on dispose method', () {

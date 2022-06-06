@@ -1,12 +1,12 @@
-import 'package:app_search/src/domain/entities/provider_entity.dart';
-import 'package:app_search/src/presentation/helpers/ui_state.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 
-import '../pages.dart';
+import '../../../domain/entities/provider_entity.dart';
+import '../../../presentation/ui_state.dart';
+import 'view_models/view_models.dart';
 
 abstract class HomePresenter {
   List<ProviderEntity> providers = [];
-  late ValueNotifier<List<VisibleProviderEntity>?> filteredProvidersNotifier;
+  late ValueNotifier<List<ProviderViewModel>> filteredProvidersNotifier;
   late ValueNotifier<UIState> stateNotifier;
 
   void getAll();
